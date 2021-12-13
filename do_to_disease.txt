@@ -1,0 +1,103 @@
+DOID:0050744,anaplastic large cell lymphoma
+DOID:0050745,diffuse large b-cell lymphoma
+DOID:0050746,mantle cell lymphoma
+DOID:0050771,phaeochromocytoma
+DOID:0050861,colorectal adenocarcinoma
+DOID:0050865,tongue squamous cell carcinoma
+DOID:0050866,oral squamous cell carcinoma
+DOID:0050902,medulloblastoma
+DOID:0050934,ovarian clear cell carcinoma
+DOID:0060058,lymphoma
+DOID:0060119,pharyngeal cancer
+DOID:0060318,acute promyelocytic leukemia
+DOID:0070004,myeloma
+DOID:10283,prostate cancer,prostatic cancer
+DOID:1040,chronic lymphocytic leukemia
+DOID:10534,gastric cancer
+DOID:11054,urinary bladder cancer,bladder cancer
+DOID:1115,sarcoma
+DOID:11934,head and neck cancer
+DOID:1240,leukemia
+DOID:13223,uterine leiomyoma
+DOID:1324,lung cancer
+DOID:1380,endometrial cancer
+DOID:1612,breast cancer
+DOID:1749,squamous cell carcinoma,squamous cell cancer
+DOID:1785,pituitary cancer
+DOID:1793,pancreatic cancer
+DOID:1909,melanoma,malignant melanoma
+DOID:1993,rectal cancer
+DOID:1996,rectal adenocarcinoma
+DOID:2025,gestational choriocarcinoma,gestational choriocarcinoma
+DOID:2101,vulvar squamous cell carcinoma
+DOID:219,colon cancer
+DOID:234,colon adenocarcinoma
+DOID:2394,ovarian cancer
+DOID:255,hemangioma
+DOID:263,kidney cancer,renal cancer
+DOID:2671,urothelial cell carcinoma
+DOID:2725,infantile hemangioma
+DOID:2870,endometrial endometrioid adenocarcinoma
+DOID:2998,testicular cancer
+DOID:3068,glioblastoma,glioblastoma multiforme
+DOID:3070,malignant glioma
+DOID:3121,gallbladder cancer
+DOID:3181,oligodendroglioma
+DOID:3246,embryonal rhabdomyosarcoma
+DOID:3247,rhabdomyosarcoma
+DOID:3302,chordoma
+DOID:3305,teratocarcinoma,teratocarcinoma
+DOID:3308,embryonal carcinoma
+DOID:3347,osteosarcoma
+DOID:3355,fibrosarcoma
+DOID:3369,ewing sarcoma
+DOID:3371,chondrosarcoma
+DOID:3498,pancreatic ductal adenocarcinoma
+DOID:3565,meningioma
+DOID:3571,liver cancer
+DOID:3594,choriocarcinoma
+DOID:3717,gastric adenocarcinoma
+DOID:3744,cervical squamous cell carcinoma
+DOID:3748,esophagus squamous cell carcinoma
+DOID:3829,pituitary adenoma
+DOID:3907,lung squamous cell carcinoma
+DOID:3910,lung adenocarcinoma
+DOID:3948,adrenocortical carcinoma
+DOID:4006,bladder transitional cell carcinoma
+DOID:4074,pancreatic adenocarcinoma
+DOID:4085,trophoblastic tumor
+DOID:4226,endometrial stromal sarcoma
+DOID:4362,cervical cancer
+DOID:4450,renal cell carcinoma
+DOID:4465,papillary renal cell carcinoma,papillary renal cell carcinoma
+DOID:4467,clear cell renal cell carcinoma
+DOID:4531,mucoepidermoid carcinoma,mucoepidermoid carcinoma
+DOID:4897,bile duct carcinoma
+DOID:4927,hilar cholangiocarcinoma
+DOID:4928,intrahepatic cholangiocarcinoma
+DOID:4947,cholangiocarcinoma
+DOID:5041,esophageal cancer
+DOID:5520,head and neck squamous cell carcinoma
+DOID:6039,uveal melanoma
+DOID:6271,gastric cardia adenocarcinoma
+DOID:684,hepatocellular carcinoma
+DOID:687,hepatoblastoma
+DOID:707,b-cell lymphoma
+DOID:7474,malignant pleural mesothelioma
+DOID:768,retinoblastoma
+DOID:769,neuroblastoma
+DOID:7693,abdominal aortic aneurysm
+DOID:7910,maxillary sinus squamous cell carcinoma
+DOID:8527,monocytic leukemia
+DOID:8552,chronic myeloid leukemia,chronic myelogenous leukemia
+DOID:8567,hodgkin's lymphoma
+DOID:8649,tongue cancer
+DOID:8692,myeloid leukemia
+DOID:8864,acute monocytic leukemia
+DOID:8923,cutaneous melanoma
+DOID:9036,parotid cancer
+DOID:9119,acute myeloid leukemia
+DOID:9253,gastrointestinal stromal tumor
+DOID:9256,colorectal cancer
+DOID:9538,multiple myeloma
+DOID:9952,acute lymphoblastic leukemia,acute lymphoblastic leukemia
